@@ -3,7 +3,7 @@ import {faTimes} from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 import styled from "@emotion/styled";
 
-const ListCheckbox = styled.inut`
+const ListCheckbox = styled.input`
     flex-direction: column-reverse !important;
     display: flex !important;
     box-sizing: border-box;
